@@ -4,7 +4,7 @@
 # For use with Paya Connect (will not work with Paya Gateway (formerly Sage Exchange))!
 # Sample for educational use only - not intended for production.
 # If you have any questions regarding the sample or our APIs
-# please contact us at sdksupport@paya.com
+# please contact us at sdksupport@nuvei.com
 import time
 import json
 import requests
@@ -28,7 +28,7 @@ requests_log.setLevel(logging.DEBUG)
 requests_log.propagate = True
 
 # The Location ID is the primary account ID for Paya Connect. Please check with
-# sdksupport@paya.com for registration and test account information. The Terminal
+# sdksupport@nuvei.com for registration and test account information. The Terminal
 # ID will be found under the Terminals tab within your developer portal account project
 PAYA_LOCATION_ID = '[Location ID]'
 PAYA_TERMINAL_ID = '[Terminal ID]'
