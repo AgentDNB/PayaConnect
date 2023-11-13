@@ -2,7 +2,7 @@
 /*----------------------------------------------
 Author: SDK Support Group
 Company: Paya
-Contact: sdksupport@paya.com
+Contact: sdksupport@nuvei.com
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! Samples intended for educational use only!!!
 !!!        Not intended for production       !!!
@@ -19,7 +19,7 @@ Contact: sdksupport@paya.com
     $host = $developer['Host'];
     $developerID = $developer['ID'];
     
-    // Define the secret ticket_hash_key used for hashing the variables
+    // Define the secret hash_key used for hashing the variables
     $user_hash_key = $user['HashKEY'];
      
     // Define variables for generating the required hash
