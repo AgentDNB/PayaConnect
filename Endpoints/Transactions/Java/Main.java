@@ -1,7 +1,7 @@
 ///*----------------------------------------------
 //Author: Thomas Hagan
 //Company: Paya
-//Contact: sdksupport@paya.com
+//Contact: sdksupport@nuvei.com
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 //!!! Samples intended for educational use only!!!
 //!!!        Not intended for production       !!!
@@ -31,7 +31,7 @@ public class Main {
 	  try {
 
 		//Set Variables
-    //Sandbox IDs and Keys may be obtained by contacting sdksupport@paya.com
+    //Sandbox IDs and Keys may be obtained by contacting sdksupport@nuvei.com
 		String locationID = "[Location ID]";
 		String userID = "[User ID]";
 		String userAPIKey = "[User API Key]";
